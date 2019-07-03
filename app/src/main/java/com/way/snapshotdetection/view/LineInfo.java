@@ -1,4 +1,4 @@
-package com.example.dliangwang.snapshotdetection.CustomView;
+package com.way.snapshotdetection.view;
 
 import java.util.ArrayList;
 import java.util.List;

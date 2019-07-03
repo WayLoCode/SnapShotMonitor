@@ -1,4 +1,4 @@
-package com.example.dliangwang.snapshotdetection.Utils;
+package com.way.snapshotdetection.utils;
 
 /**
  * Created by dliang.wang on 2017/4/12.

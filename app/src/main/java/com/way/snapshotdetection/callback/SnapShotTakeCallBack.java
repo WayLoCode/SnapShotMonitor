@@ -1,9 +1,9 @@
-package com.example.dliangwang.snapshotdetection.CallBack;
+package com.way.snapshotdetection.callback;
 
 import android.content.Context;
 import android.content.Intent;
 
-import com.example.dliangwang.snapshotdetection.SnapShotEditActivity;
+import com.way.snapshotdetection.ui.SnapShotEditActivity;
 
 /**
  * Created by dliang.wang on 2017/4/12.

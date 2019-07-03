@@ -1,4 +1,4 @@
-package com.example.dliangwang.snapshotdetection.CallBack;
+package com.way.snapshotdetection.callback;
 
 /**
  * Created by dliang.wang on 2017/4/12.

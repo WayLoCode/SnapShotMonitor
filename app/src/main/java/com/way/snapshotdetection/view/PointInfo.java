@@ -1,4 +1,4 @@
-package com.example.dliangwang.snapshotdetection.CustomView;
+package com.way.snapshotdetection.view;
 
 /**
  * Created by dliang.wang on 2017/4/12.

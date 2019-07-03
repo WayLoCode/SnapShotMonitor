@@ -1,4 +1,4 @@
-package com.example.dliangwang.snapshotdetection;
+package com.way.snapshotdetection.ui;
 
 import android.graphics.Bitmap;
 import android.os.Build;
@@ -11,12 +11,13 @@ import android.view.ViewTreeObserver;
 import android.widget.Button;
 import android.widget.LinearLayout;
 
-import com.example.dliangwang.snapshotdetection.CustomView.LineInfo;
-import com.example.dliangwang.snapshotdetection.CustomView.PaintableImageView;
-import com.example.dliangwang.snapshotdetection.Utils.BitmapUtils;
+import com.way.snapshotdetection.R;
+import com.way.snapshotdetection.utils.BitmapUtils;
+import com.way.snapshotdetection.view.LineInfo;
+import com.way.snapshotdetection.view.PaintableImageView;
 
-import static com.example.dliangwang.snapshotdetection.Utils.FileObserverUtils.SNAP_SHOT_FOLDER_PATH;
-import static com.example.dliangwang.snapshotdetection.CallBack.SnapShotTakeCallBack.SNAP_SHOT_PATH_KEY;
+import static com.way.snapshotdetection.callback.SnapShotTakeCallBack.SNAP_SHOT_PATH_KEY;
+import static com.way.snapshotdetection.manager.FileObserverManager.SNAP_SHOT_FOLDER_PATH;
 
 /**
  * Created by dliang.wang on 2017/4/12.

@@ -1,4 +1,4 @@
-package com.example.dliangwang.snapshotdetection.Utils;
+package com.way.snapshotdetection.utils;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
